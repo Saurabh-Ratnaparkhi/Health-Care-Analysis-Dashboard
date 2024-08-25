@@ -29,7 +29,7 @@ TotalBill: The total bill amount for the patient's treatment.
 
 Full Prescription Details: Detailed prescription information including medication names, dosages, frequency, and duration
 
-Health Care Dataset 2
+![Health Care Dataset 2](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/HealthcareDataset2.xlsx)
 
 PatientID: A unique identifier for each patient, corresponding to 'PatientID' in "HealthcareDataset1.xlsx". (Foreign Key)
 
@@ -76,10 +76,7 @@ Insight Generation:
 Extract meaningful insights from the data and communicate them effectively through the dashboard.
 
 By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.
-
-
-After working on the dashboard I believe all the above objectives have been fulfilled. So I'd request you to kindly go through the below provided link to check the dashboard online.
-Feedbacks are welcome.
+After working on the dashboard I believe all the above objectives have been fulfilled.
 
 Health Stat Dashboard
 
