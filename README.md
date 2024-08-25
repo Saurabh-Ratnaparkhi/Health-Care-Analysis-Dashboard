@@ -70,7 +70,6 @@ Health Stat Dashboard
 
 You can also download the Dashboard raw files from this repo !
 
-**About the Dashboard:**
 <h2>About the Dashboard:</h2>
 <H3>The Overview Report:</H3>
 
