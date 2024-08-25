@@ -80,8 +80,7 @@ You can also download the Dashboard raw files from this repo !
 
 ![PBI2](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Assets/Dashboard%202%20(Performance).png)
 
-<p>This report gives you insight about each and every hospital's performance that is present in the dataset. Also, since you can use the filters, you'll be able to<br>
-extract the desired specific information from the haystack.</p>
+<p>This report gives you insight about each and every hospital's performance that is present in the dataset. Also, since you can use the filters, you'll be able to extract the desired specific information from the haystack.</p>
 <H3>The Time based Analysis Report:</H3>
 
 ![PBI3](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Assets/Dashboard%203%20(Time%20Based%20Analysis).png)
@@ -91,5 +90,5 @@ extract the desired specific information from the haystack.</p>
 
 ![Filter2](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Assets/Dashboard%204%20(Filters).png)
 
-<p>With the various filters/slicers which are synced across all the pages, you can get all the information you need(I believe so) and if you miss out on any features make sure to contact me on sny social media handles and provide feedbacks.This report will be giving varoiuos insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+<p>With the various filters/slicers which are synced across all the pages, you can get all the information you need. This report will be giving various insights with respect to time from different aspects of the industry and also can be filtered out along with the diagnoses and treatment types.</p>
 <p>This project leverages PowerBI to perform an in-depth analysis of healthcare data, revealing critical insights into patient demographics, treatment patterns, hospital efficiency, and more.The interactive dashboard provides stakeholders with valuable, data-driven insights for enhancing healthcare operations and improving patient outcomes.</p>
