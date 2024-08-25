@@ -4,7 +4,7 @@ The objective of this project is to leverage Power BI for a deep dive into the p
 ![](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Designer%20(7).png)
 
 About the Data
-![](Health Care Dataset 1)
+![](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/HealthcareDataset1.xlsx)
 
 PatientID: A unique identifier for each patient. (Primary Key)
 PatientName: Name of the patient.
