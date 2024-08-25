@@ -29,7 +29,7 @@ TotalBill: The total bill amount for the patient's treatment.
 
 Full Prescription Details: Detailed prescription information including medication names, dosages, frequency, and duration
 
-![Health Care Dataset 2](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/HealthcareDataset2.xlsx)
+![Healthcare Dataset 2](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/HealthcareDataset2.xlsx)
 
 PatientID: A unique identifier for each patient, corresponding to 'PatientID' in "HealthcareDataset1.xlsx". (Foreign Key)
 
@@ -45,35 +45,23 @@ TreatmentType: Type of treatment provided.
 
 RecoveryRating: A rating of the patient's recovery (out of 10).
 
-Overall Objective:
+**Overall Objective:**
 
 Create a comprehensive, interactive, and visually appealing Power BI dashboard to analyze healthcare data, identify trends, and support data-driven decision making.
 
-Specific Objectives:
+**Specific Objectives:**
 
-Data Visualization:
+Data Visualization: Develop clear and informative visualizations for key metrics such as patient demographics, diagnoses, treatment costs, and recovery ratings.
 
-Develop clear and informative visualizations for key metrics such as patient demographics, diagnoses, treatment costs, and recovery ratings.
+Dashboard Design: Construct a user-friendly dashboard with intuitive navigation and engaging visuals.
 
-Dashboard Design:
+Time Series Analysis: Incorporate time-based trends in patient admissions, length of stay, and other relevant metrics.
 
-Construct a user-friendly dashboard with intuitive navigation and engaging visuals.
+Comparative Analysis: Enable comparison of hospital performance across various parameters like patient load, treatment costs, and recovery outcomes.
 
-Time Series Analysis:
+Treatment Effectiveness Analysis: Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
 
-Incorporate time-based trends in patient admissions, length of stay, and other relevant metrics.
-
-Comparative Analysis:
-
-Enable comparison of hospital performance across various parameters like patient load, treatment costs, and recovery outcomes.
-
-Treatment Effectiveness Analysis:
-
-Visualize treatment effectiveness based on factors such as length of stay and recovery ratings.
-
-Insight Generation:
-
-Extract meaningful insights from the data and communicate them effectively through the dashboard.
+Insight Generation: Extract meaningful insights from the data and communicate them effectively through the dashboard.
 
 By achieving these objectives, the dashboard will provide valuable insights into healthcare operations, support performance improvement, and inform strategic decision-making.
 After working on the dashboard I believe all the above objectives have been fulfilled.
@@ -82,4 +70,21 @@ Health Stat Dashboard
 
 You can also download the Dashboard raw files from this repo !
 
-About the Dashboard:
+**About the Dashboard:**
+<h2>About the Dashboard:</h2>
+<H3>The Overview Report:</H3>
+![PBI1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090418.png)
+<p>This report shows a brief overview of the entire healthcare industry's performance in one page.<br>With all the slicers/filters you can pick the exact info/insight you need for the pinpoint data.</p>
+<H3>The Hospital Performance Analysis Report:</H3>
+![PBI2](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/980e4a7f930d3f05834e87130d781b4e85a47e93/Assets/Screenshot%202024-08-16%20090519.png)
+<p>This report gives you insight about each and every hospital's performance that is present in the dataset. Also, since you can use the filters, you'll be able to<br>
+extract the desired specific information from the haystack.</p>
+<H3>The Time based Analysis Report:</H3>
+![PBI3](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20090542.png)
+<p>This report will be giving various insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+<H3>About the filters/slicers:</H3>
+![Filter1](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20095024.png)
+<p>Click anywhere within the lighht green region except for icons or headers to see the filters panel which will come out of the nav-bar. To go back to the dashboard by exiting the filters panel, you can click anywhere in the darker section below the filters panel.</p>
+![Filter2](https://github.com/ANURUDRA-JENA/Health-Care-Analysis-Dashboard/blob/befb3db7c458e0600bc6fccba176a4bead196b50/Assets/Screenshot%202024-08-16%20095052.png)
+<p>With the various filters/slicers which are synced across all the pages, you can get all the information you need(I believe so) and if you miss out on any features make sure to contact me on sny social media handles and provide feedbacks.This report will be giving varoiuos insights with respect to time from different aspects of the industry and also can be filtered out along diagnoses and treatment types.</p>
+<p>This project leverages PowerBI to perform an in-depth analysis of healthcare data, revealing critical insights into patient demographics, treatment patterns, hospital efficiency, and more.The interactive dashboard provides stakeholders with valuable, data-driven insights for enhancing healthcare operations and improving patient outcomes.</p>
