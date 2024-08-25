@@ -1,7 +1,7 @@
 # Health-Care-Analysis-Dashboard
 The objective of this project is to leverage Power BI for a deep dive into the provided healthcare datasets. This task encompasses meticulous data cleaning and sophisticated data modeling, utilizing DAX for advanced analytics. Your goal is to create a comprehensive, interactive dashboard in Power BI that presents a cohesive narrative of the healthcare data. This dashboard should serve as a tool to uncover and visualize important trends, such as the interplay between patient demographics and treatment outcomes, cost implications of various medical procedures, and overall hospital performance metrics. Your analysis will provide invaluable insights, aiding healthcare providers in enhancing patient care and operational efficiency, and positioning HealthStat Solutions at the forefront of healthcare analytics.
 
-![](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Hospital-img.png)
+![](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Designer%20(7).png)
 
 About the Data
 Health Care Dataset 1
