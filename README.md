@@ -68,7 +68,7 @@ After working on the dashboard I believe all the above objectives have been fulf
 
 Health Stat Dashboard
 
-![Health Stat Dashboard](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Healthcare%20Final%20Dashboard.pbix))
+![Health Stat Dashboard](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Healthcare%20Final%20Dashboard.pbix)
 
 You can also download the Dashboard raw files from this repo !
 
