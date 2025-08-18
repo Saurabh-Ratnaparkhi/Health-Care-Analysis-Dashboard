@@ -68,7 +68,7 @@ After working on the dashboard I believe all the above objectives have been fulf
 
 Health Stat Dashboard
 
-![Health Stat Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTM0ZjM5MzUtMTNjZi00YTM3LWI1MzEtMGMzMDA5NDIzMzU3IiwidCI6ImYxZTEwY2Q3LTJiYWYtNDJjZi04M2NhLWFjYWY1ZDg1NGE3YSJ9&pageName=df4a6b4ee95f9e556b16)
+![Health Stat Dashboard](https://github.com/Saurabh-Ratnaparkhi/Health-Care-Analysis-Dashboard/blob/main/Healthcare%20Final%20Dashboard.pbix))
 
 You can also download the Dashboard raw files from this repo !
 
